@@ -28,6 +28,9 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
     * the original version: https://ethereum.github.io/yellowpaper/paper.pdf
     * a readable version: https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
 
+# Zero-Knowledge Proof
+* PLONK
+    * https://github.com/fluidex/awesome-plonk
 # MISC
 * https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
 * https://community.starknet.io/t/management-of-reverted-transactions-in-starknet/136
