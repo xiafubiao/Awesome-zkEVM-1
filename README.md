@@ -30,9 +30,15 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
     * a readable version: https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
 
 # Zero-Knowledge Proof
-* PLONK
+* PLONK (by Aztec)
     * https://github.com/fluidex/awesome-plonk
+* Plookup (by Aztec)
+    * https://eprint.iacr.org/2020/315.pdf
+* Plonkup (by Dust Network)
+    * https://anoma.network/blog/an-introduction-to-zk-snark-plonkup/
+
 # MISC
 * https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
 * https://community.starknet.io/t/management-of-reverted-transactions-in-starknet/136
 * https://hackmd.io/rNkgMCG0TJuZHsakphO1eA
+* a talk given by Alex from Matter Labs: https://www.youtube.com/watch?v=6wLSkpIHXM8&t=735s 
